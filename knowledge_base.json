@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello there!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I am a chatbot. I do not feel emotion. Thank you for asking though."
+    },
+    {
+      "question": "Do you like lentils?",
+      "answer": "I am a chatbot, so I can not eat. I have heard lentils are hard on other's digestive systems, so I would not recommend."
+    },
+    {
+      "question": "Thank you!",
+      "answer": "You're Welcome!"
+    },
+    {
+      "question": "What is your opinion on tacos?",
+      "answer": "From the data I have, I can tell that they are very popular and delicious."
+    }
+  ]
+}
